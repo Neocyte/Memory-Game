@@ -269,4 +269,5 @@ body {
 @media screen and (min-width: 750px) and (max-width: 1050px) {
   .congrats-popup {
     width: 50%;
+  }
 }
