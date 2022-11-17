@@ -11,7 +11,7 @@ This project was a fun game designed to challenge my skills in HTML, CSS, and Ja
 
 ## Instructions
 
-To access the feedreader, click [here](https://neocyte.github.io/Memory-Game/).
+To access the memory game, click [here](https://neocyte.github.io/Memory-Game/).
 
 To begin playing, simply click on any pair of cards to see if they match. 
 If they do not match, a red shaking animation will play. Failing to match multiple pairs will eventually lose you stars.
